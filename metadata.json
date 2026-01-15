@@ -1,0 +1,7 @@
+{
+  "name": "TO DO(Risk-Zero) Task Architect",
+  "description": "Professional task management system that transforms raw notes into structured Action/Check/Trigger frameworks to eliminate oversight.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
